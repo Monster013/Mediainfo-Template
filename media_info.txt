@@ -19,12 +19,12 @@ Bit Rate..............: %BitRate/String% %BitRate_Mode%
 Frame Rate............: %FrameRate/String% (%FrameRate_Mode%)
 Color Primaries.......: %colour_primaries%
 Transfercharacterist..: %transfer_characteristics%
-Encoding Library......:  %Encoded_Library/String%\n"
+Encoding Library......: %Encoded_Library/String%\n"
 
 Audio;"
 Audio Track %StreamKindPos%
 Title.................: %Title%
-Audio.................: %Language/String% (%Format/String% )
+Audio.................: %Language/String% (%Format/String%)
 Format................: %Format_Commercial% %Format/Info%
 Bitrate...............: %BitRate/String% (%BitRate_Mode%)
 Channel Layout........: %ChannelPositions%
@@ -32,4 +32,4 @@ Channels..............: %Channel(s)/String%"\n
 
 Text;"
 Subtitles
-Language..............:  %Language/String% (%Format_Commercial%)"\n"
+Language..............: %Language/String% (%Format_Commercial%)"\n"
