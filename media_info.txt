@@ -33,4 +33,4 @@ Channels..............: %Channel(s)/String%"\n
 
 Text;"
 Subtitles
-Language.............:  %Language/String% (%Format_Commercial%)"\n"
+Language..............:  %Language/String% (%Format_Commercial%)"\n"
