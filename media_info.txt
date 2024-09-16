@@ -5,12 +5,11 @@ General
 Title.................: %Title%
 Format................: %Format% %Format_Version%
 Duration..............: %Duration/String%
-Name..................: %CompleteName%
 Overall Bitrate.......: %OverallBitRate/String% %OverallBitRate_Mode/String%
 File Size.............: %FileSize/String4%"\n
 
 Video;"
-Video Track :
+Video Track
 Title.................: %Title%
 Format................: %Format% (%BitDepth/String%)
 Format Profile........: %Format_Profile%
@@ -19,13 +18,13 @@ Aspect Ratio..........: %DisplayAspectRatio/String%
 Bit Rate..............: %BitRate/String% %BitRate_Mode%
 Frame Rate............: %FrameRate/String% (%FrameRate_Mode%)
 Color Primaries.......: %colour_primaries%
-Transfer Characteristics: %transfer_characteristics%
+Transfercharacterist..: %transfer_characteristics%
 Encoding Library......:  %Encoded_Library/String%\n"
 
 Audio;"
-Audio Track %StreamKindPos%:
+Audio Track %StreamKindPos%
 Title.................: %Title%
-Audio.................: %Language/String%
+Audio.................: %Language/String% (%Format/String% )
 Format................: %Format_Commercial% %Format/Info%
 Bitrate...............: %BitRate/String% (%BitRate_Mode%)
 Channel Layout........: %ChannelPositions%
