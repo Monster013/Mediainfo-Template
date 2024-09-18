@@ -1,9 +1,7 @@
 General;"
-%FileNameExtension%
-
 General
-Title.................: %Title%
-Format................: %Format% %Format_Version%
+File Name.............: %FileNameExtension%
+Format................: %Format% (%Format_Version%)
 Duration..............: %Duration/String%
 Overall Bitrate.......: %OverallBitRate/String% %OverallBitRate_Mode/String%
 File Size.............: %FileSize/String4%"\n
